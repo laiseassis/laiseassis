@@ -1,8 +1,8 @@
 <h1>Laíse Assis</h1>
 
-<a href="mailto:laise.assis@hotmail.com" target="_blank"> <img src="envelope-regular.svg"> </a>
-<a href="https://www.linkedin.com/in/laiseassis/" target="_blank">[linkedin](https://github.com/laiseassis/laiseassis/assets/32445474/26b1228b-e807-4150-96f7-82830369a604)</a>
-<a href="https://dev.to/laiseassis" target="_blank">[dev](https://github.com/laiseassis/laiseassis/assets/32445474/f0fd62b6-41a5-45d4-8a21-0c26a1f13ef9)</a>
+<a href="mailto:laise.assis@hotmail.com" target="_blank"> <img src="envelope-regular.svg" alt="Ícone de E-mail" width="50" /> </a>
+<a href="https://www.linkedin.com/in/laiseassis/" target="_blank"><img src="linkedin.svg" alt="Ícone Linkedin" width="50" /></a>
+<a href="https://dev.to/laiseassis" target="_blank"><img src="dev.svg" alt="Ícone Dev.To" width="50" /></a>
 
 
 
