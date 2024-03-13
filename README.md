@@ -1,7 +1,6 @@
-<h1>Laíse Assis</h1> 
-
 <img src="https://i.ibb.co/6gMGmCL/laise-oh-yeah.png" alt="laise-oh-yeah" border="0" width="150" align="right">
 
+<h1>Laíse Assis</h1> 
 <a href="mailto:laise.assis@hotmail.com" target="_blank"><img src="https://i.ibb.co/GC6ZGmY/envelope-regular.png" alt="E-mail" border="0" width="30"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/laiseassis/" target="_blank"><img src="https://i.ibb.co/J2szZGy/linkedin.png" alt="Linkedin" border="0" width="30"></a>&nbsp;&nbsp;
 <a href="https://dev.to/laiseassis" target="_blank"><img src="https://i.ibb.co/3ytkGq1/dev.png" alt="dev" border="0" width="30"></a>
