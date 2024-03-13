@@ -36,6 +36,7 @@ Sou bastante comunicativa, adoro aprender e principalmente compartilhar o que se
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiseassis&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=laiseassis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+</div>
           
 <!--
 **laiseassis/laiseassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
