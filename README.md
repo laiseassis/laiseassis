@@ -1,3 +1,5 @@
+<img src="joia.png" align="right">
+
 <h1>Laíse Assis</h1>
 
 <!--a href="https://www.linkedin.com/in/laiseassis/" target="_blank"><img src="instagram.svg" alt="Ícone Instagram" width="30" /></a>&nbsp;&nbsp;-->
