@@ -1,4 +1,4 @@
-<img src="joia.png" align="right" width="100">
+<img src="joia.png" align="right" width="200">
 
 <h1>Laíse Assis</h1>
 
