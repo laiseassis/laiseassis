@@ -9,6 +9,16 @@ Posso dizer que toda minha jornada começou lááá traz, onde eu tinha 13 anos,
 Atualmente tenho focado bastante em me especializar em Front-end e dominar esse mundão que hoje é tão vasto!
 
 Sou bastante comunicativa, adoro aprender e principalmente compartilhar o que sei!
+
+## Ferramentas e Tecnologias:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
+          
+          
+
+          
 <!--
 **laiseassis/laiseassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
