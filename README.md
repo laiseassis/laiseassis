@@ -1,5 +1,14 @@
-### Hi there 👋
+# Laíse Assis
 
+## Olá Pessoa!
+
+Tenho 33 anos e sou de São Paulo - SP. Aqui no github vou compartilhar um pouco das minhas andanças pelo mundo da programação (mais especificamente de Front-end).
+
+Posso dizer que toda minha jornada começou lááá traz, onde eu tinha 13 anos, um pc com 3gb de HD e um sonho rs. Sempre tive muito contato com a parte web, atuando em diversas agências onde pude atuar com de tudo um pouco: Design, Front-end e Back-end (que na minha época era um cargo chamado: Webmaster rsrs).
+
+Atualmente tenho focado bastante em me especializar em Front-end e dominar esse mundão que hoje é tão vasto!
+
+Sou bastante comunicativa, adoro aprender e principalmente compartilhar o que sei!
 <!--
 **laiseassis/laiseassis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
