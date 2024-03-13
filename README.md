@@ -1,5 +1,7 @@
 <img src="https://i.ibb.co/6gMGmCL/laise-oh-yeah.png" alt="laise-oh-yeah" border="0" width="150" align="right" style="margin-right:50px;">
 
+<br><br>
+
 <h1>Laíse Assis</h1> 
 
 <a href="mailto:laise.assis@hotmail.com" target="_blank"><img src="https://i.ibb.co/GC6ZGmY/envelope-regular.png" alt="E-mail" border="0" width="30"></a>&nbsp;&nbsp;
