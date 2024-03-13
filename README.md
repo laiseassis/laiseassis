@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/6gMGmCL/laise-oh-yeah.png" alt="laise-oh-yeah" border="0" width="150" align="right">
+<img src="https://i.ibb.co/6gMGmCL/laise-oh-yeah.png" alt="laise-oh-yeah" border="0" width="150" align="right" style="margin-right:50px;">
 
 <h1>Laíse Assis</h1> 
 
