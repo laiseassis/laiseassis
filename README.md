@@ -3,7 +3,7 @@
 <a href = "mailto:laise.assis@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/laiseassis" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Olá Pessoa!
+## Olá Pessoa 🙋‍♀️!
 
 Tenho 33 anos e sou de São Paulo - SP. Aqui no github vou compartilhar um pouco das minhas andanças pelo mundo da programação (mais especificamente de Front-end).
 
