@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/laiseassis/" target="_blank"><img src="linkedin.svg" alt="Ícone Linkedin" width="30" /></a>&nbsp;&nbsp;
 <a href="https://dev.to/laiseassis" target="_blank"><img src="dev.svg" alt="Ícone Dev.To" width="30" /></a>
 
-<br><br>
+<br>
 
 ## 🙋‍♀️ Olá Pessoa!
 
