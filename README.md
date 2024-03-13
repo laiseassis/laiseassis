@@ -9,7 +9,7 @@ Tenho 33 anos e sou de São Paulo - SP. Aqui no github vou compartilhar um pouco
 
 Posso dizer que toda minha jornada começou lááá traz, onde eu tinha 13 anos, um pc com 3gb de HD e um sonho rs. Sempre tive muito contato com a parte web, atuando em diversas agências onde pude atuar com de tudo um pouco: Design, Front-end e Back-end (que na minha época era um cargo chamado: Webmaster rsrs).
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/XreQmk7ETCak0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/retro-thumbs-up-XreQmk7ETCak0">via GIPHY</a></p>
+<div class="tenor-gif-embed" data-postid="4533805" data-share-method="host" data-aspect-ratio="1.32773" data-width="100%"><a href="https://tenor.com/view/thumbs-up-computer-kid-okay-gif-4533805">Thumbs Up Computer GIF</a>from <a href="https://tenor.com/search/thumbs+up-gifs">Thumbs Up GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Atualmente tenho focado bastante em me especializar em Front-end e dominar esse mundão que hoje é tão vasto!
 
