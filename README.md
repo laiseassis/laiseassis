@@ -9,7 +9,7 @@ Tenho 33 anos e sou de São Paulo - SP. Aqui no github vou compartilhar um pouco
 
 Posso dizer que toda minha jornada começou lááá traz, onde eu tinha 13 anos, um pc com 3gb de HD e um sonho rs. Sempre tive muito contato com a parte web, atuando em diversas agências onde pude atuar com de tudo um pouco: Design, Front-end e Back-end (que na minha época era um cargo chamado: Webmaster rsrs).
 
-![gif](https://github.com/laiseassis/laiseassis/assets/32445474/93510500-b7b1-4a3d-9391-a1f154c4937d)
+![thumbs-up-computer](https://github.com/laiseassis/laiseassis/assets/32445474/4461cde9-727c-46d8-a6ff-7282b9d6a297)
 
 
 Atualmente tenho focado bastante em me especializar em Front-end e dominar esse mundão que hoje é tão vasto!
